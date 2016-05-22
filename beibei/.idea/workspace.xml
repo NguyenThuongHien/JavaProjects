@@ -56,11 +56,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beibei/Process/ThreadTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37602627">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnableTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beibei/Process/RunnableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6064815">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="20.0">
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -117,6 +137,8 @@
         <option value="$PROJECT_DIR$/src/beibei/Process/Rabbit.java" />
         <option value="$PROJECT_DIR$/src/beibei/Process/Tortoise.java" />
         <option value="$PROJECT_DIR$/src/beibei/Process/ThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/beibei/Process/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/beibei/Process/RunnableTest.java" />
       </list>
     </option>
   </component>
@@ -228,21 +250,7 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ThreadTest">
-    <configuration default="false" name="NewsItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beibei.NewsItem" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Javabeibei" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RunnableTest">
     <configuration default="false" name="NewsItemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beibei.NewsItemTest" />
       <option name="VM_PARAMETERS" />
@@ -299,6 +307,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beibei.Process.RunnableTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Javabeibei" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -333,19 +355,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NewsItem" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NewsItemTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ComparatorInterface" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TreeSetAndTreeMap" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.NewsItemTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ComparatorInterface" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeSetAndTreeMap" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreadTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunnableTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreadTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TreeSetAndTreeMap" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ComparatorInterface" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NewsItemTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NewsItem" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RunnableTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreadTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TreeSetAndTreeMap" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ComparatorInterface" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NewsItemTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -394,7 +416,7 @@
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22483766" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2845982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6495536" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1465" y="100" width="1082" height="824" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -423,21 +445,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibei/AnonymousClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/TypeEraSure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -628,13 +635,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="27" selection-start-line="119" selection-start-column="27" selection-end-line="119" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -807,10 +807,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.0">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/Process/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37602627">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beibei/Process/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6064815">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>

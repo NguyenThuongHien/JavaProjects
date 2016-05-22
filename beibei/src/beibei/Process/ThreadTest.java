@@ -18,10 +18,10 @@ public class ThreadTest {
         Tortoise tor = new Tortoise();
 
         /**
-         * 调用run方法
+         * 调用start方法
          */
-        rat.run();  // 改为 rat.start()
-        tor.run();  // 改为 tor.start()   比较下结果
+        rat.start();  // 改为 rat.run()
+        tor.start();  // 改为 tor.run()   比较下结果
 
         for (int i = 0; i < 10; i++) {
             System.out.println("main run >>" + i);
@@ -42,4 +42,16 @@ public class ThreadTest {
  * 2. 写一个类实现Runnable接口，实现里面的run方法 用new Thread(Runnable target).start()来启动
  */
 
+/**
+ * 通过调用Thread类的start()方法来启动一个线程 这时此线程处于就绪状态，并没有运行
+ * 然后通过调用run()称为线程体，它包含了要执行的这个线程的内容，run方法结束，此线程终止
+ * 而如果直接调用run方法，这只是调用一个方法而已，程序中依然只有主线程和这个线程
+ * 其程序执行路劲还是只有一条,就没有达到写现成的目的
+ * 线程就是为了更好的利用cpu，提高程序执行速率的
+ */
+
+/**
+ *  .run() 相当于调用一个方法，不会创建新的线程
+ *  .start()创建新的线程，并且调用run方法
+ */
 
