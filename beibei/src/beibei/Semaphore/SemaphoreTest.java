@@ -44,7 +44,7 @@ class Movie{
             this.wait();
         }
         Thread.sleep(200);
-        System.out.println("消费了："+pic);
+        System.out.println("消费了："+ pic);
         this.notifyAll();
         this.flag = true;
 

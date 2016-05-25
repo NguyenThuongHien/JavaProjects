@@ -22,16 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThreadTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/beibei/Process/ThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ThreadStatus.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beibei/Process/ThreadStatus.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,12 +101,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SemaphoreTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SemaphoreTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/beibei/Semaphore/SemaphoreTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4675926">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TimerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beibei/TimerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5787037">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#384#529#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/beibei/Singleton/JVMThread.java" />
         <option value="$PROJECT_DIR$/src/beibei/Singleton/SynDemo.java" />
         <option value="$PROJECT_DIR$/src/beibei/Semaphore/SemaphoreTest.java" />
+        <option value="$PROJECT_DIR$/src/beibei/TimerTest.java" />
       </list>
     </option>
   </component>
@@ -246,28 +251,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javabeibei" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beibei" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beibei" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Semaphore" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -285,21 +268,7 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.SynDemo">
-    <configuration default="false" name="Sleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beibei.Process.Sleep" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Javabeibei" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.TimerTest">
     <configuration default="false" name="NetWorkDelay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beibei.Process.NetWorkDelay" />
       <option name="VM_PARAMETERS" />
@@ -356,6 +325,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="TimerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beibei.TimerTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Javabeibei" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -390,19 +373,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Sleep" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NetWorkDelay" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ThreadInfo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SynDemo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.NetWorkDelay" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadInfo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SynDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TimerTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SynDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ThreadInfo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NetWorkDelay" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Sleep" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TimerTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SynDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreadInfo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NetWorkDelay" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -483,13 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/util/AbstractList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8709676">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/util/AbstractSequentialList.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.8709676">
@@ -872,9 +848,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/Semaphore/SemaphoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4675926">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beibei/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5787037">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#384#529#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
