@@ -10,8 +10,10 @@ import java.util.TimerTask;
 
 /**
  * 任务调度
- *      schedule(TimerTask task, Date timer)
- *      schedule(TImerTask task, Date timer, long period)
+ *     1. 安排在指定的时间执行指定的任务
+ *        schedule(TimerTask task, Date timer)
+ *     2. 安排指定的任务在指定的时间开始进行重复的固定延迟执行
+ *        schedule(TImerTask task, Date timer, long period)
  */
 public class TimerTest {
     public static void main(String[] args){
