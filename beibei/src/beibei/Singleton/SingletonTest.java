@@ -44,8 +44,10 @@ class SingletonHunger{
  */
 class SingletonLazy{
 
-    private static SingletonLazy singletonLazy = new SingletonLazy();
-    private SingletonLazy(){}
+    private static SingletonLazy singletonLazy ;
+    private SingletonLazy(){
+
+    }
 
     public static synchronized SingletonLazy getInstance(){
         if (singletonLazy == null){
