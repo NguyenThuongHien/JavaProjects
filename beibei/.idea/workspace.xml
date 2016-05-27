@@ -58,15 +58,15 @@
       <file leaf-file-name="AnonymousClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/beibei/AnonymousClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06944445">
-              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.5774278">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
               <folding>
-                <element signature="e#215#359#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#445#599#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#987#1231#0" expanded="true" />
-                <element signature="e#1230#1231#0" expanded="true" />
+                <element signature="e#260#404#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#490#644#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#1032#1276#0" expanded="true" />
+                <element signature="e#1275#1276#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,7 +149,6 @@
         <option value="$PROJECT_DIR$/src/beibei/ComparatorInterface.java" />
         <option value="$PROJECT_DIR$/src/beibei/StringBuferTest.java" />
         <option value="$PROJECT_DIR$/src/beibei/CollectionTest.java" />
-        <option value="$PROJECT_DIR$/src/beibei/AnonymousClass.java" />
         <option value="$PROJECT_DIR$/src/beibei/TreeSetAndTreeMap.java" />
         <option value="$PROJECT_DIR$/src/beibei/HashMapTest.java" />
         <option value="$PROJECT_DIR$/src/beibei/Process/Rabbit.java" />
@@ -176,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/beibei/Panel/Shape.java" />
         <option value="$PROJECT_DIR$/src/beibei/Panel/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/beibei/Panel/Panel.java" />
+        <option value="$PROJECT_DIR$/src/beibei/AnonymousClass.java" />
       </list>
     </option>
   </component>
@@ -288,21 +288,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Panel">
-    <configuration default="false" name="ThreadInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beibei.Process.ThreadInfo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Javabeibei" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AnonymousClass">
     <configuration default="false" name="SynchronizedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beibei.SynTest.SynchronizedTest" />
       <option name="VM_PARAMETERS" />
@@ -359,6 +345,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="false" name="AnonymousClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beibei.AnonymousClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Javabeibei" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -393,19 +393,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ThreadInfo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SynDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TimerTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Panel" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SynDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TimerTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Panel" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AnonymousClass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Panel" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TimerTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SynDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ThreadInfo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnonymousClass" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Panel" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TimerTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SynDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SynchronizedTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
@@ -455,7 +455,7 @@
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24918832" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5398374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5390625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1465" y="100" width="1082" height="824" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -814,15 +814,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/AnonymousClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06944445">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.5774278">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
-            <element signature="e#215#359#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#445#599#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#987#1231#0" expanded="true" />
-            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#260#404#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#490#644#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#1032#1276#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
           </folding>
         </state>
       </provider>
