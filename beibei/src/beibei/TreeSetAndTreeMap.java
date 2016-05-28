@@ -31,7 +31,6 @@ public class TreeSetAndTreeMap {
         System.out.println(persons.first().getName());
 
 
-
     }
 }
 

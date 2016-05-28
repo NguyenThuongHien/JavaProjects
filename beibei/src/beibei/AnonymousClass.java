@@ -9,6 +9,7 @@ package beibei;
  */
 public class AnonymousClass {
 
+
     // static 修饰的方法默认都是final类型的，不能被子类覆盖
     public final static void main(String[] args){
         /**
