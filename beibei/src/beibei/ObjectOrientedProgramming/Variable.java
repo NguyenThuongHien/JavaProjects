@@ -65,12 +65,12 @@ public class Variable {
      * 忘记初始化成员变量的错误并不多。假设程序员没有显式初始化成员变量，Java语言则认为这些变量的初始值刚好
      * 和该数据类型的默认值相同，因此提供自动初始化的功能，以简化编程。
      */
-    void test(){
-        Variable var;
-        int a ;
-        System.out.println(a);
-        System.out.println(var.numbers);
-    }
+//    void test(){
+//        Variable var;
+//        int a ;
+//        System.out.println(a);
+//        System.out.println(var.numbers);
+//    }
     /**
      * 那么， 加了修饰符的Java成员变量是如何初始化的呢？
      */
