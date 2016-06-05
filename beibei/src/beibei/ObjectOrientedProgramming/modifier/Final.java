@@ -5,7 +5,9 @@ package beibei.ObjectOrientedProgramming.modifier;
  */
 
 /**
- * final修饰成员变量，可以在定义变量时，或者在构造方法中进行初始化
+ * 类的成员变量分为两种：一种是static修饰的变量，叫类变量或静态变量
+ * 另一种是没有被static修饰的变量，叫实例变量
+ * final修饰实例变量，可以在定义变量时，或者在构造方法中进行初始化
  * 对于final类型的静态变量，只能在定义变量时进行初始化
  */
 public class Final {

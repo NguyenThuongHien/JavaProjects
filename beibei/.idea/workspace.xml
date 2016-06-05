@@ -21,7 +21,23 @@
     <favorites_list name="Javabeibei" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Final.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/modifier/Final.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18518518">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -613,7 +629,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1282" height="1024" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -997,16 +1013,16 @@
         <state vertical-scroll-proportion="0.65779465">
           <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
           <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#735#736#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="false" />
+            <element signature="e#338#339#0" expanded="false" />
+            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#455#456#0" expanded="false" />
+            <element signature="e#628#629#0" expanded="false" />
+            <element signature="e#702#703#0" expanded="false" />
+            <element signature="e#735#736#0" expanded="false" />
+            <element signature="e#834#835#0" expanded="false" />
+            <element signature="e#904#905#0" expanded="false" />
+            <element signature="e#967#968#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1042,19 +1058,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/modifier/Final.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20833333">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/statictest/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5138889">
@@ -1064,6 +1067,19 @@
             <element signature="e#848#849#0" expanded="true" />
             <element signature="e#872#873#0" expanded="true" />
             <element signature="e#925#926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/modifier/Final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
           </folding>
         </state>
       </provider>
