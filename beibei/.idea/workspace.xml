@@ -21,18 +21,7 @@
     <favorites_list name="Javabeibei" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="StaticInnerClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerClass/StaticInnerClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5324074">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/beibei/Singleton/SynDemo.java" />
         <option value="$PROJECT_DIR$/src/beibei/TimerTest.java" />
         <option value="$PROJECT_DIR$/src/beibei/Panel/Cicle.java" />
         <option value="$PROJECT_DIR$/src/beibei/Panel/Recangle.java" />
@@ -100,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerCklass/InnerClass.java" />
         <option value="$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerCklass/Tester.java" />
         <option value="$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerCklass/StaticInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerClass/LocalInnerClass.java" />
       </list>
     </option>
   </component>
@@ -270,6 +259,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="beibei.ObjectOrientedProgramming.InnerClass" />
       <recent name="beibei.ObjectOrientedProgramming" />
     </key>
   </component>
@@ -424,7 +414,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1282" height="1024" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -495,20 +485,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/beibei/Process/ThreadInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/beibei/SynTest/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/Singleton/SynDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -857,8 +833,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerClass/StaticInnerClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5324074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beibei/ObjectOrientedProgramming/InnerClass/LocalInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4212963">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
