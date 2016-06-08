@@ -1,4 +1,4 @@
-package beibei.ObjectOrientedProgramming.InnerCklass;
+package beibei.ObjectOrientedProgramming.InnerClass;
 
 /**
  * Created by sunyinhui on 16-6-8.
