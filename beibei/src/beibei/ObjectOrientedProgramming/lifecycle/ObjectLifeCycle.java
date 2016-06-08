@@ -13,5 +13,8 @@ package beibei.ObjectOrientedProgramming.lifecycle;
  *      3. 调用对象的clone()方法
  *      4. 运用反序列化手段，调用java.io.ObjectInputStream对象的readObject()方法
  */
+
+
 public class ObjectLifeCycle {
+
 }
