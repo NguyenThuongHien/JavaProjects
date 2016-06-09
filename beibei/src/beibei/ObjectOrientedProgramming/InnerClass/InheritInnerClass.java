@@ -9,8 +9,8 @@ import beibei.ObjectOrientedProgramming.modifier.Sample;
 
 /**
  * 内部类的继承
- * 外部类Sample继承了另一个类Outer的内部类Inner
- * 每个Sample实例必须自动用一个Outer实例，当调用一个Samples实例的print()方法时，
+ * 外部类InheritInnerClass继承了另一个类Outer的内部类Inner
+ * 每个InheritInnerClass实例必须自动用一个Outer实例，当调用一个InheritInnerClass实例的print()方法时，
  * print()方法会访问当前Outer实例的成员变量a
  */
 class OuterTest{
