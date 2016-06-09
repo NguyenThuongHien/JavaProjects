@@ -55,7 +55,6 @@ package beibei.ObjectOrientedProgramming.lifecycle;
  */
 
 public class Constructor {
-    String
 }
 
 
