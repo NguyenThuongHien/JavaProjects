@@ -26,7 +26,6 @@ public class ThreadInterCoummunication {
 //        Producer producer2 = new Producer(stack2,"producer2");
 //        Producer producer3 = new Producer(stack2,"producer3");
 //        Consumer consumer3 = new Consumer(stack1,"consumer3");
-
     }
 }
 
@@ -66,7 +65,6 @@ class Consumer extends Thread{
             goods = theStack.pop();
             System.out.println(getName()+":pop "+ goods + "from "+ theStack.getClass().getName());
         }
-
     }
 
 }
