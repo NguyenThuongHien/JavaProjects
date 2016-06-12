@@ -159,7 +159,7 @@ class Stack{
  *         但不会释放锁。Thread类的suspend()方法已经被废弃。
  */
 /**
- * wait会释放锁
+ * wait会释放锁。注意是对象的wait()方法，不是线程的wait()方法
  * sleep和yield不会释放锁
  */
 
