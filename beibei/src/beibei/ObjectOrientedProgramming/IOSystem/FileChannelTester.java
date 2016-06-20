@@ -57,7 +57,7 @@ public class FileChannelTester {
         Charset cs = Charset.defaultCharset();  //获得本地平台的字符编码
         System.out.println(cs.decode(buff));    //转换为unicode字符编码
         fileChannel.close();
-
+        
     }
 
 }
